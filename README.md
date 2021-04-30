@@ -3,6 +3,8 @@ Homework Assignment for Week 1- HTML-Git-CSS
 
 ## Deployed Link
 
+[Deployed Link](https://hbrown16.github.io/Week-1-HW/)
+
 ## Assignment Description
 
 This Assignment provided an HTML and CSS file that had to be refactored. What refactoring means is to clean up the HTML code written and make it more accessible.
@@ -41,5 +43,5 @@ Section: defines a section in a document
 
 ## Resources
 
-https://developer.mozilla.org/en-US/
+[MDN](https://developer.mozilla.org/en-US/)
 
